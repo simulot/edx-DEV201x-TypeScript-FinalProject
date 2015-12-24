@@ -1,0 +1,118 @@
+{
+  "famousPainters": [{
+    "name": "Michelangelo",
+    "information": {
+      "birthPlace": "Caprese",
+      "birthDate": "06/03/1475",
+      "nationality": "Italian"
+    },
+    "style": "Renaissance",
+    "examples": [{
+      "title": "David",
+      "date": "1501–1504",
+      "place": "Galleria dell'Accademia, Florence",
+      "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/David_von_Michelangelo.jpg/118px-David_von_Michelangelo.jpg"
+    }, {
+      "title": "The Last Judgement",
+      "date": "1534–1541",
+      "place": "Sistine Chapel, Rome",
+      "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Rome_Sistine_Chapel_01.jpg/171px-Rome_Sistine_Chapel_01.jpg"
+    }]
+  }, {
+    "name": "Raphael",
+    "style": "Renaissance",
+    "information": {
+      "birthPlace": "Urbino",
+      "birthDate": "06/04/1483",
+      "nationality": "Italian"
+    },
+    "examples": [{
+      "title": "School at Athens",
+      "date": "1509–1511",
+      "place": "Apostolic Palace, Vatican City",
+      "urlImage": "http://uploads5.wikiart.org/images/raphael/school-of-athens-detail-from-right-hand-side-showing-diogenes-on-the-steps-and-euclid-1511.jpg!Blog.jpg"
+    }, {
+      "title": "Lucretia",
+      "date": "1509–1510",
+      "place": "Metropolitan place of Art.",
+      "urlImage": "https://d1lfxha3ugu3d4.cloudfront.net/images/tdp/152.41.jpg"
+    }, {
+      "title": "Saint George and the Dragon",
+      "date": "1504–1506",
+      "place": "National Gallery of Art, Washington, D.C.",
+      "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Raphael_-_Saint_George_and_the_Dragon.jpg/622px-Raphael_-_Saint_George_and_the_Dragon.jpg"
+    }]
+  }, {
+    "name": "Vincent van Gogh",
+    "style": "Post-Impressionist",
+    "information": {
+      "birthPlace": "Groot-Zundert",
+      "birthDate": "30/03/1853",
+      "nationality": "Neerlander"
+    },
+    "examples": [{
+      "title": "Self-portrait",
+      "date": "1889",
+      "place": "Courtauld Institute Galleries, London",
+      "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vincent_van_Gogh_-_Self_portrait_with_bandaged_ear_F529.jpg/213px-Vincent_van_Gogh_-_Self_portrait_with_bandaged_ear_F529.jpg"
+    }, {
+      "title": "The Starry Night",
+      "date": "1888",
+      "place": " Musée d'Orsay, Paris",
+      "urlImage": "http://uploads3.wikiart.org/images/vincent-van-gogh/the-starry-night-1889%281%29.jpg!Large.jpg"
+    }, {
+      "title": "The Yellow House",
+      "date": "1888",
+      "place": " Van Gogh place",
+      "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vincent_van_Gogh_-_The_yellow_house_%28'The_street'%29.jpg/540px-Vincent_van_Gogh_-_The_yellow_house_%28'The_street'%29.jpg"
+    }]
+  }, {
+    "name": "Claude Monet",
+    "style": "Impressionist",
+    "information": {
+      "birthPlace": "Paris",
+      "birthDate": "14/11/1853",
+      "nationality": "French"
+    },
+    "examples": [{
+      "title": "Morning on the Seine",
+      "date": "1896",
+      "place": null,
+      "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Claude_Monet_-_Morning_on_the_Seine_-_Google_Art_Project.jpg/751px-Claude_Monet_-_Morning_on_the_Seine_-_Google_Art_Project.jpg"
+    }, {
+      "title": "The Woman in the Green Dress",
+      "date": "1896",
+      "place": "Kunsthalle, Bremen",
+      "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Claude_Monet_-_Camille.JPG/300px-Claude_Monet_-_Camille.JPG"
+    }, {
+      "title": "Sunrise",
+      "date": "1872",
+      "place": "Musée Marmottan Monet, Paris",
+      "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Claude_Monet%2C_Impression%2C_soleil_levant.jpg/771px-Claude_Monet%2C_Impression%2C_soleil_levant.jpg"
+    }]
+  }, {
+    "name": "Johannes Vermeer",
+    "style": "Baroque",
+    "information": {
+      "birthPlace": "Delft",
+      "birthDate": "31/10/1632",
+      "nationality": "Neerlander"
+    },
+    "examples": [{
+      "title": "The Milkmaid",
+      "date": "1658-1661 (ca.)",
+      "place": "Rijksplace, Amsterdam",
+      "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Johannes_Vermeer_-_The_Milkmaid_-_WGA24625.jpg/695px-Johannes_Vermeer_-_The_Milkmaid_-_WGA24625.jpg"
+    }, {
+      "title": "Girl with a Pearl Earring",
+      "date": "1665-1667 (ca.)",
+      "place": "Mauritshuis, La Haye",
+      "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Johannes_Vermeer_%281632-1675%29_-_The_Girl_With_The_Pearl_Earring_%281665%29.jpg/537px-Johannes_Vermeer_%281632-1675%29_-_The_Girl_With_The_Pearl_Earring_%281665%29.jpg"
+    }, {
+      "title": "The Music Lesson",
+      "date": "1662-1664 (ca.)",
+      "place": "Private",
+      "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman%2C_'The_Music_Lesson'_-_Google_Art_Project.jpg/670px-Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman%2C_'The_Music_Lesson'_-_Google_Art_Project.jpg"
+    }]
+  }]
+}

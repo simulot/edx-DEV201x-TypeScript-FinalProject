@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>TypeScript HTML App</title>
+    <link rel="stylesheet" href="styles/app.css" type="text/css" />
+    <link href="styles/app.css" rel="stylesheet" />
+    <script src="scripts/libs/jquery-1.11.2.js"></script>
+    <script src="scripts/painters.js"></script>
+    <script src="scripts/render.js"></script>
+    <script src="scripts/app.js"></script>
+</head>
+<body>
+    <div class="row">
+        <div class="col-md-1">
+            <img class="logoImg" src="images/brush.png" />
+        </div>
+        <div class="col-md-11 pull-left">
+            <h1>Famous Painters</h1>
+        </div>
+    </div>
+    <div>
+        <select id="PainterSelector">
+          <option disabled>Choose a painter...</option>
+        </select>
+    </div>
+    <div id="content"></div>
+    <div id="examples"></div>
+</body>
+</html>
